@@ -1,5 +1,6 @@
 # SrivkPharma - Clinical Research Website
 https://srivk.vercel.app/
+
 A modern, responsive, and visually striking website for **SrivkPharma**, a global clinical research organization.  
 Built with **Lovable AI** using a premium, cinematic, and professional design approach.
 
